@@ -1,0 +1,10 @@
+---------------------------------
+Dump: 27/06/21 01:10:37 
+Proceso: 2 Segmento: 0 Inicio: 0x0000   Tamanio: 8b
+ Proceso: 2 Segmento: 1 Inicio: 0x8 Tamanio: 99b
+ Proceso: 2 Segmento: 2 Inicio: 0x6b Tamanio: 24b
+ Proceso: 2 Segmento: 3 Inicio: 0x83 Tamanio: 24b
+ Proceso: 2 Segmento: 4 Inicio: 0x9b Tamanio: 24b
+ Proceso: 2 Segmento: 5 Inicio: 0xb3 Tamanio: 24b
+ Proceso: 2 Segmento: 6 Inicio: 0xcb Tamanio: 24b
+ ---------------------------------
